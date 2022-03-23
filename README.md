@@ -30,8 +30,6 @@
 ## 🔍  You can find me here 👇🏻
 
 <a href="https://www.linkedin.com/in/rodrigo-troncoso/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a> <br>
+&nbsp;
 
-
-## 😂 Random IT meme. (If you refresh, you'll get a new meme)
-
-<img width="400px" src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETroncoso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
