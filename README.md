@@ -30,7 +30,7 @@
 ## 🔍  You can find me here 👇🏻
 
 <a href="https://www.linkedin.com/in/rodrigo-troncoso/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a> <br>
-<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=F05032" alt="Gmail logo" title="LinkedIn" height="25" /> troncosorodrigo24@gmail.com
+
 
 ## 😂 Random IT meme. (If you refresh, you'll get a new meme)
 
