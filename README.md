@@ -1,7 +1,7 @@
 ### Hello there! 👋🏻 I am Rodrigo, welcome to my <a href="https://github.com/RETroncoso" rel="nofollow" color="black">Github</a>!
 
 
-<b>👨‍💻 I'm a front-end developer.</b> <br>
+<b>👨‍💻 I'm a fullstack developer.</b> <br>
 <b>🏠 I am settled in Buenos Aires, Argentina 🇦🇷.</b> <br>
 <b>🔉 Native spanish speaker, advanced english speaker.</b> <br>
 &nbsp;
