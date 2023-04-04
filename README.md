@@ -32,4 +32,3 @@
 <a href="https://www.linkedin.com/in/rodrigo-troncoso/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a> <br>
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RETroncoso&layout=compact)](https://github.com/RETroncoso?tab=repositories)
